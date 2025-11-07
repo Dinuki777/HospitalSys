@@ -6,12 +6,17 @@ It helps manage hospital operations such as patient records, staff management, a
 ---
 
 ## 🧩 Features
-- 👩‍⚕️ Patient registration and record management  
-- 🧑‍⚕️ Doctor and staff management  
-- 📅 Appointment scheduling and tracking  
-- 💰 Billing and invoice generation  
-- 📊 Report generation  
-- 🗄️ Database integration (MySQL / SQLite)  
+- 🗄️ Database integration (MySQL / SQLite)
+  
+- ### 🧭 Manager Main Menu
+- Create **Cashier Accounts**  
+- Create **Consultant Accounts**  
+- Access **Cashier Main Menu**
+
+### 💼 Cashier Main Menu
+- Find and **Add Patients**  
+- **Find Consultants**  
+- **Booking** management for appointments  
 
 ---
 
