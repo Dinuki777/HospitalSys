@@ -22,10 +22,14 @@ It helps manage hospital operations such as patient records, staff management, a
 
 ## ⚙️ Project Structure
 HospitalSys/
-├── build.xml # Ant build script
-├── nbproject/ # NetBeans project configuration files
-├── src/ # Java source code
-├── dist/ # Compiled JAR (after build)
+├── build.xml
+# Ant build script
+├── nbproject/ 
+# NetBeans project configuration files
+├── src/ 
+# Java source code
+├── dist/ 
+# Compiled JAR (after build)
 └── lib/ # External libraries (if any)
 
 
