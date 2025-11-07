@@ -8,7 +8,7 @@ It helps manage hospital operations such as patient records, staff management, a
 ## 🧩 Features
 - 🗄️ Database integration (MySQL / SQLite)
   
-- ### 🧭 Manager Main Menu
+### 🧭 Manager Main Menu
 - Create **Cashier Accounts**  
 - Create **Consultant Accounts**  
 - Access **Cashier Main Menu**
