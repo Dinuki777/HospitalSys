@@ -30,7 +30,8 @@ HospitalSys/
 #### Java source code
 ├── dist/ 
 #### Compiled JAR (after build)
-└── lib/ # External libraries (if any)
+└── lib/ 
+#### External libraries (if any)
 
 
 ---
